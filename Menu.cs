@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 
 namespace DishMenu
-{
+{раорар
     class Menu
     {
         List<(string name, List<(string name, double weight)> products)> dishList;
